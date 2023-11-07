@@ -7,7 +7,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(fondo3.png);
+    background-image: url(fondo3.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -44,7 +44,6 @@ body {
     font-size: 16px;
     color: #fff;
     margin-top: 5px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 h3{
     margin: 25px auto 5px;
@@ -102,7 +101,7 @@ p{
 }
 .button-comp i:hover{
     transform: scale(1.1);
-    color: #e8b409ed;
+    color: #00e5ffde;
 }
 hr {
     margin: 15px auto;
